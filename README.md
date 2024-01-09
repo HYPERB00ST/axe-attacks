@@ -1,10 +1,10 @@
 # Axe Attacks
-Axe Attacks is a first person dungeon escape game.
+Axe Attacks is a first person dungeon escape demo.
 The player needs to go through 5 levels. On this path, the player will be met with ninjas, who will try to stop him in his tracks. He can choose to destroy them, or not.
 ## Assets
 The NPCs (ninjas) plus their animations are from [Mixamo](mixamo.com) and the axe is made by my friend, a great 3D artist, [Jovan Ivanov](https://www.linkedin.com/in/jovan-ivanov-077568181/). Everything else, including textures and animation programming, plus the rooms, were made by me.
 ## Code
-Let's start talking about Game Architecture.
+Let's start talking about the Demo Code.
 ### Architecture
 The game itself has 5 unique states.
 - Start state (Main menu screen)
